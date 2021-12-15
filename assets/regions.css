@@ -1,0 +1,84 @@
+@media (min-width: 800px) {
+  .pding {
+    margin-top: 300px;
+  }
+  .bcolor {
+    background-color: black;
+  }
+}
+html{
+  background-color: #333;
+}
+main{
+  background-image: url('../img/fond.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+footer{
+  color: white;
+}
+a{ 
+  color:white;
+}
+a:hover{
+  color: white;
+}
+.attribute {
+  background-size: 100%;
+}
+.attribute:hover{
+  -webkit-transform:scale(1.10); /* Safari and Chrome */
+  -moz-transform:scale(1.10); /* Firefox */
+  -ms-transform:scale(1.10); /* IE 9 */
+  -o-transform:scale(1.10); /* Opera */
+   transform:scale(1.10);
+  transition: 0.5s;
+}
+.attribute.col-sm.card {
+  border-style: none;
+  background-color: transparent;
+  width: 50%;
+}
+.attribute.col-sm.card img {
+  width: 250px;
+}
+
+.bfc{
+  background-image:url('../img/bfc-drapeau.png');
+}
+
+.brtgne{
+  background-image:url('../img/bretagne-drapeau.png');
+}
+.centre{
+  background-image:url('../img/centre-drapeau.png');
+}
+.corse{
+  background-image:url('../img/corse-drapeau.png');
+}
+
+.ge{
+  background-image:url('../img/ge-drapeau.png');
+}
+.hdf{
+  background-image:url('../img/hdf-drapeau.png');
+}
+.idf{
+  background-image:url('../img/idf-drapeau.png');
+}
+.na{
+  background-image:url('../img/na-drapeau.png');
+}
+.nrmdie{
+  background-image:url('../img/normandie-drapeau.png');
+}
+.occitanie{
+  background-image:url('../img/occitanie-drapeau.png');
+}
+.paca{
+  background-image:url('../img/paca-drapeau.png'); 
+}
+.pdll{
+  background-image:url('../img/pdll-drapeau.png');
+}
+
